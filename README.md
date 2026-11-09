@@ -42,7 +42,7 @@ The following documents provide additional information about the project:
 
 - Project Report: AI_IDS_Report_Public_Copy.pdf
 - Project Presentation: AI_IDS_Presentation_Public_Copy.pptx
-
+View project (https://github.com/mohammedalasere28-bot/AI-Enhanced-Intrusion-Detection-System/commit/28b322204b04a951479b17912f2ea00e1f3d63f7)
 ## Project Objective
 
 The objective of this project is to develop an intelligent intrusion detection system that combines network security monitoring and machine learning to identify suspicious network activities and support cybersecurity risk assessment.

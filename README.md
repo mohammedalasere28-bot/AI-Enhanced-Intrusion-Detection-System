@@ -47,8 +47,27 @@ View project (https://github.com/mohammedalasere28-bot/AI-Enhanced-Intrusion-Det
 
 The objective of this project is to develop an intelligent intrusion detection system that combines network security monitoring and machine learning to identify suspicious network activities and support cybersecurity risk assessment.
 
-## Academic Information
 
+- ## Project Screenshots
+
+### Screenshot 1
+![Project Screenshot 1](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.22%20(1).jpeg)
+
+### Screenshot 2
+![Project Screenshot 2](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.22%20(2).jpeg)
+
+### Screenshot 3
+![Project Screenshot 3](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.22%20(3).jpeg)
+
+### Screenshot 4
+![Project Screenshot 4](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.22.jpeg)
+
+### Screenshot 5
+![Project Screenshot 5](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.23%20(1).jpeg)
+
+### Screenshot 6
+![Project Screenshot 6](screenshots/WhatsApp%20Image%202026-11-10%20at%2001.06.23.jpeg)
+
+## Academic Information
 - Field: Computer Engineering
 - Project Type: Graduation Project
-- 

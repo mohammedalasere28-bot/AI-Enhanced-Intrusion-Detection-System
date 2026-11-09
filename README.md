@@ -53,7 +53,7 @@ The objective of this project is to develop an intelligent intrusion detection s
 ![Screenshot 1](./image1.jpeg)
 
 ### Screenshot 2
-![Screenshot 2](./image2jpeg)
+![Screenshot 2](./image2.jpeg)
 
 ### Screenshot 3
 ![Screenshot 3](./image3.jpeg)
